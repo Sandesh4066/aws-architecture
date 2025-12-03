@@ -1,1 +1,1 @@
-# aws-architecture
+THe AWS arcitecture includes a public instance and a private instance inside a VPC that are connected to a RDS for and security groups are attached to the instace for secure access and also applied NACLS 
